@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fghost-casper-idea-gif-7006993&psig=AOvVaw2xZYUo-jUZC2Fhr6nvjA4G&ust=1690303760155000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCY2qvmp4ADFQAAAAAdAAAAABAR)
+[![MasterHead](https://media.tenor.com/wedeBO66gykAAAAC/ghost-casper.gif)
 
 <h1 align="center">Hi 👋, I'm Aleyna Coşkun</h1>
 <h3 align="center">A passionate full-stack web developer from Turkey. It is of great importance for me to follow the current technologies and produce projects</h3>
